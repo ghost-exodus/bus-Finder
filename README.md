@@ -1,5 +1,13 @@
 # Bhopal Bus Route Finder
 
+
+
+https://github.com/user-attachments/assets/05acc6b5-dcf2-4a7e-b0ac-84b75e6151e3
+
+
+
+
+
 A dynamic, visually appealing command-line application to navigate Bhopal's public bus network. Built purely in Java, this tool calculates the shortest physical distance between stops using Dijkstra's Algorithm, or the minimum number of transfers using Breadth-First Search (BFS). 
 
 ## Features
@@ -39,15 +47,10 @@ This project uses standard Java and does not require Maven, Gradle, or any exter
    java -cp out com.busroute.Main
    ```
 
-## Screenshots
-
-> **[PLACEHOLDER: Insert terminal screenshots here showing the colorful ASCII menu]**
-
-<br><br><br>
 
 ## System Flowchart
+<img width="2816" height="1536" alt="flwchart392" src="https://github.com/user-attachments/assets/0a774235-6ae2-431c-983e-5e021c04e7b2" />
 
-> **[PLACEHOLDER: Insert your Mermaid / UML flowchart image here showing the system architecture]**
 
 <br><br><br>
 
